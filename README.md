@@ -10,7 +10,7 @@ test repository for data science class
 **太文字**
 
 ---
-[大学HP](https://www.ncu.ac.jp)
+[大学HP](https://www.nagoya-cu.ac.jp)
 
 ---
 ![画像](https://example.com/image.jpg)
